@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio del Equipo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="header-content">
+            <img src="channels4_profile.jpg" alt="Logo del equipo">
+            <h1>Grupo 5</h1>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>Acerca del Equipo</h2>
+        <div class="team-members">
+            <div class="member">
+                <img src="Foto mia.jpg" alt="Foto de Nombre Miembro">
+                <h3>Fernanda Caillava</h3>
+                <p>Rol: Especialista en Control de Calidad y Especialista en Idiomas</p>
+                <a href="Caillava_Fernanda_CV.pdf">Ver CV</a>
+                <p>Contacto: <a href="fernanda.caillava@outlook.com">fernanda.caillava@outlool.com</a></p>
+            </div>
+            <!-- Repetir para cada miembro del equipo -->
+        </div>
+    </section>
+
+    <section id="proyecto">
+        <h2>Etapas del Proyecto</h2>
+        <ul>
+            <li><a href="Proyecto_Etapa1_Grupo5.pdf">Planificación con Gantt</a></li>
+            <li><a href="Proyecto_Etapa1_Grupo5.pdf">Definición de Roles</a></li>
+            <li><a href="Proyecto_Etapa1_Grupo5.pdf">Plan de Pruebas</a></li>
+            <li><a href="Informe+Grupal_Español.pdf">Informe Ejecutivo</a></li>
+            <li><a href="Informe+Grupal_Español.pdf">Presentación Ejecutiva en Video</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Equipo de Testing</p>
+    </footer>
+</body>
+
+</html>
